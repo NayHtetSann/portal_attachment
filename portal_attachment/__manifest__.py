@@ -2,7 +2,8 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
     'name': 'Portal Attachment',
-    'version': '18.0.0.1',
+    'version': '17.0.0.1',
+    'author': 'NHS',
     'summary': 'simple module for devs trying to attach from web portal',
     'sequence': 11,
     'description': """
