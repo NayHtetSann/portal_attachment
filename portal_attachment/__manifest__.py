@@ -11,6 +11,7 @@ Membership plan
 Allow portal user to attach related attachments for tasks 
     """,
     'category': 'Services/Project',
+    'author': 'NHS',
     'website': 'https://www.syrupsbiz.com',
     'depends': ['project'],
     'data': [
