@@ -27,7 +27,7 @@ Allow portal user to attach related attachments for tasks
             'portal_attachment/static/src/js/project_task.js',
         ],
     },
-    'images':  ['static/description/image_1.png', 'static/description/image_2.png'],
+    'images':  ['static/description/image_1.jpg', 'static/description/image_2.jpg'],
     'installable': True,
     'application': True,
     'license': 'LGPL-3'
